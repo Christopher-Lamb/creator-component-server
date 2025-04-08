@@ -1,0 +1,15 @@
+{
+  "mainClass": "",
+  "containerClass": "",
+  "wrapperClass": "relative h-[700px]",
+  "slideGroupContainerClass": "relative h-full",
+  "slideGroupClass": "relative h-full",
+  "slideClass": "absolute w-full h-full transition duration-500ms ease-in-out",
+  "htmlContainerClass": "",
+  "htmlWrapperClass": "",
+  "content": "",
+  "htmlStylesArray": "{\"objects\":{\"el\":{\"elName\":\"\",\"elClass\":\"\"}},\"array\":[]}",
+  "slidesArray": "{\"objects\":{\"slide\":{\"containerClass\":\"\",\"wrapperClass\":\"\",\"imageClass\":\"h-full\",\"img\":\"\",\"htmlContainerClass\":\"\",\"content\":\"\",\"htmlStylesArray\":{\"objects\":{\"el\":{\"elName\":\"\",\"elClass\":\"\"}},\"array\":[]},\"array\":[]}},\"array\":[]}",
+  "addOnArray": "{\"objects\":{\"dots\":{\"type\":\"dots\",\"containerClass\":\"absolute z-4 translate-y-[-100%] w-full\",\"wrapperClass\":\"\",\"dotContainerClass\":\"\",\"dotsClass\":\"\",\"dotSelectedClass\":\"\"},\"arrows\":{\"type\":\"arrows\",\"containerClass\":\"absolute z-3 h-full top-[50%] translate-y-[-50%] w-full\",\"wrapperClass\":\"\",\"iconButtonClass\":\"\",\"iconClass\":\"\",\"svg\":\"\"}},\"array\":[]}",
+  "delay": "50000"
+}
